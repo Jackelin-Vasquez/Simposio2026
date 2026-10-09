@@ -1,0 +1,9 @@
+flask
+gunicorn
+pandas
+openpyxl
+qrcode[pil]
+pillow
+reportlab
+rapidfuzz
+python-dotenv
